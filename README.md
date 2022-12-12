@@ -9,3 +9,4 @@ https://www.hl7.org/fhir/v3/PurposeOfUse/vs.html
 
 This has been reviewed initially to identify areas where the New Zealand Health Inforamtion Privacy Code applies and where this can be described against the codeset.
 
+THe file includes all of the original codes, where these haven't been mapped to an HIPC code, the code isn't required to be used and should be removed from UI and validation rules. 
